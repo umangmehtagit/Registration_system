@@ -61,21 +61,3 @@ button {
     cursor: pointer;
     font-size:16px ;
 }
-
-#cancelBtn {
-    margin-top: 7px;
-    background-color: #827c7c !important;
-}
-
-#submitLink {
-    display: block;
-    width: 100%;
-    background-color: rgb(47, 255, 102);
-    padding: 10px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size:16px ;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-}
